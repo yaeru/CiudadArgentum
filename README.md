@@ -1,16 +1,22 @@
-# CiudadArgentum
-Esta es la descripcion
+# Ciudad Argentum
+Simple videojuego rpg que transcurre en la ciudad de La Plata, mezclado con mitologia del podcast [Te Lo Transmito Asi Nomas](https://www.telotransmito.com/)
 
-## Descripción
-Esta es la descripcion
+## [0.0.1] - 2020-12-09
 
-### Descripción
-Esta es la descripcion
+### Added
 
 - List
 - List
 - List
 
-[I'm an inline-style link](https://www.google.com)
+### Changed
 
-este es un http://www.example.com
+- List
+- List
+- List
+
+### Removed
+
+- List
+- List
+- List
