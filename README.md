@@ -10,7 +10,7 @@ Simple videojuego RPG que transcurre en la ciudad de La Plata, mezclado con mito
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_2.svg)](https://cafecito.app/yaeru)
 
 ## Versiones
-- [0.0.3](#)
+- [0.0.3](http://www.mediafire.com/file/1gceiabp06kcxvj/LaPlata-v0.0.3.zip/file)
 - [0.0.2](http://www.mediafire.com/file/g0o4rzgf53v0lrl/LaPlata-v0.2.zip/file)
 - [0.0.1](http://www.mediafire.com/file/mf7nb9sdwx61vpv/LaPlata.rar/file)
 
