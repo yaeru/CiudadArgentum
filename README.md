@@ -1,43 +1,54 @@
 # Ciudad Argentum
 Simple videojuego RPG que transcurre en la ciudad de La Plata, mezclado con mitologia del podcast [Te Lo Transmito Asi Nomas](https://www.telotransmito.com/)
 
-# Como funciona
-- Descargar la ultima [versión](#versiones)
-- Descomprir con el [Winrar](https://www.winrar.es/descargas) o [Winzip](https://www.winzip.com)
-- Abrir el archivo Game.exe
+## Como funciona
+1. Descargar la ultima [versión](#versiones)
+2. Descomprir con el [Winrar](https://www.winrar.es/descargas) o [Winzip](https://www.winzip.com)
+3. En la carpeta LaPlata abrir el archivo Game.exe
 
-# Versiones
-- [0.0.3](game/v0.0.3.zip)
-- [0.0.2](game/v0.0.2.zip)
+## Donaciones
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_2.svg)](https://cafecito.app/yaeru)
 
-# Cambios
+## Versiones
+- [0.0.3](#)
+- [0.0.2](http://www.mediafire.com/file/g0o4rzgf53v0lrl/LaPlata-v0.2.zip/file)
+- [0.0.1](http://www.mediafire.com/file/mf7nb9sdwx61vpv/LaPlata.rar/file)
 
-## [0.0.3] - 2020-12-09
+## Cambios
 
-### Added 
+### [0.0.3] - 2020-12-09
+
+#### Added 
 
 - Mapa Plaza Moreno, pasaje a Mapa Bosque
 - Mapa Bosque, pasaje a Mapa Plaza Moreno
 - Mapa Bosque, Campamento
 - Mapa Bosque, Gruta de la cascada
-- Mapa Bosque, arboles
 
-### Changed
+#### Changed
 
 - Mapa Bosque, Observatorio mejorado
-- Mapa Bosque, coaminos y señales
+- Mapa Bosque, caminos, señales y arboles
 
-## [0.0.2] - 2020-12-09
+#### Removed
 
-### Changed
+- Para mejor test se quito la música
+
+### [0.0.2] - 2020-12-09
+
+#### Added
+
+- Mapa Bosque
+- Mapa Plaza Moreno, misión Lechuga Congelada
+
+#### Changed
 
 - Mapa Cementerio, mejores tumbas
 - Mapa Bosque, mejores edificios
 
-## [0.0.1] - 2020-12-04
+### [0.0.1] - 2020-12-04
 
-### Added
+#### Added
 
+- Mapa Plaza Moreno
 - Mapa Cementerio
-- Mapa Bosque
-- Misión Lechuga Congelada
