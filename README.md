@@ -12,12 +12,30 @@ Simple videojuego RPG que transcurre en la ciudad de La Plata, mezclado con mito
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_2.svg)](https://cafecito.app/yaeru)
 
 ## Versiones
+- [0.0.5](https://www.mediafire.com/file/as5hmldl9m1ujg5/LaPlata-v0.0.5.zip/file)
 - [0.0.4](https://www.mediafire.com/file/wmegwlklj8j3ys3/LaPlata-v0.0.4.zip/file)
 - [0.0.3](http://www.mediafire.com/file/1gceiabp06kcxvj/LaPlata-v0.0.3.zip/file)
 - [0.0.2](http://www.mediafire.com/file/g0o4rzgf53v0lrl/LaPlata-v0.2.zip/file)
 - [0.0.1](http://www.mediafire.com/file/mf7nb9sdwx61vpv/LaPlata.rar/file)
 
 ## Cambios
+
+### [0.0.5] - 2020-12-27
+
+#### Added
+- Mapa Ciudad, Posada de dos pisos
+- Mapa Ciudad, interiores de casas
+- Mapa Ciudad, NPC
+- Mapa Bosque, misión Arte Contemporaneo
+- Mapa Bosque, Tienda de magia
+- Mapa Bosque, NPC
+- Mapa Catedral, NPC
+- Mapa Cementerio, clima lluvia
+
+#### Changed
+
+- Mapa Ciudad, cambio fondos de batalla
+- Mapa Moreno, misión Lechuga Congelada
 
 ### [0.0.4] - 2020-12-22
 
